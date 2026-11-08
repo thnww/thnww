@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- ==================== DÒNG CHỮ CHẠY ĐÁNH CHỮ ==================== -->
   <a href="https://github.com/thnww">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=65&lines=Hello+I'm+thnww" alt="Hello I'm thnww" />
   </a>
 
-  <!-- ==================== NÚT CONNECT TRỎ VỀ PROFILE ==================== -->
   <p>
     <a href="https://thn2k10profile.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/CONNECT-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Connect" />
@@ -31,14 +29,12 @@ identity:
 
 <div align="center">
 
-  <!-- Icon động hiển thị đúng 5 ngôn ngữ -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,lua,html,css&theme=dark" alt="Skills" />
   </a>
 
   <br/><br/>
 
-  <!-- Monochrome Badges phẳng đổi màu tự động theo Dark/Light Mode -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-F6F8FA?style=flat-square&logo=python&logoColor=111111">
@@ -69,11 +65,10 @@ identity:
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
 <div align="center">
 
-<!-- Thẻ dự án tự động sinh từ GitHub, không cần tải ảnh lên -->
 <a href="https://github.com/thnww/bloxfruit">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=thnww&repo=bloxfruit&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=8B949E" alt="bloxfruit" />
 </a>
@@ -85,11 +80,10 @@ identity:
 
 ---
 
-### 📊 Activity & Telemetry
+### Activity & Telemetry
 
 <div align="center">
 
-  <!-- Streak Stats: Nền trong suốt, ngọn lửa chuyển động -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thnww&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=F0F6FC">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thnww&theme=transparent&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&dates=656D76&currStreakNum=0969DA&sideNums=1F2328">
@@ -98,7 +92,6 @@ identity:
 
   <br/><br/>
 
-  <!-- GitHub Stats Extended & Top Languages (Tự động kéo stats thật của thnww) -->
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=thnww&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&text_bold=false" alt="Overview Stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thnww&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=5" alt="Top Languages" />
 
@@ -107,5 +100,5 @@ identity:
 ---
 
 <div align="center">
-  <sub>⚡ Designed for thnww · Adaptive Dark/Light Mode</sub>
+  <sub>Designed for thnww · Adaptive Dark/Light Mode</sub>
 </div>
