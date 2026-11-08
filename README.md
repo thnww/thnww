@@ -1,9 +1,11 @@
 <div align="center">
 
+  <!-- ==================== DÒNG CHỮ CHẠY ĐÁNH CHỮ ==================== -->
   <a href="https://github.com/thnww">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=65&lines=Hello+I'm+thnww" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=65&lines=Hello+I'm+thnww" alt="Hello I'm thnww" />
   </a>
 
+  <!-- ==================== NÚT CONNECT TRỎ VỀ PROFILE ==================== -->
   <p>
     <a href="https://thn2k10profile.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/CONNECT-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Connect" />
@@ -25,7 +27,7 @@ identity:
 
 ---
 
-### 🛠️ Languages & Skills
+### Languages & Skills
 
 <div align="center">
 
@@ -67,45 +69,38 @@ identity:
 
 ---
 
-### Selected Projects
+### 🚀 Selected Projects
 
 <div align="center">
 
+<!-- Thẻ dự án tự động sinh từ GitHub, không cần tải ảnh lên -->
 <a href="https://github.com/thnww/bloxfruit">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/bloxfruit-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/bloxfruit-light.svg">
-    <img width="49%" alt="bloxfruit" src="./assets/projects/bloxfruit-dark.svg">
-  </picture>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=thnww&repo=bloxfruit&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=8B949E" alt="bloxfruit" />
 </a>
 <a href="https://github.com/thnww/Discord">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/discord-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/discord-light.svg">
-    <img width="49%" alt="Discord" src="./assets/projects/discord-dark.svg">
-  </picture>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=thnww&repo=Discord&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=8B949E" alt="Discord" />
 </a>
 
 </div>
 
 ---
 
-### Activity & Telemetry
+### 📊 Activity & Telemetry
 
 <div align="center">
 
-  <!-- Streak Stats trong suốt với ngọn lửa chuyển động -->
+  <!-- Streak Stats: Nền trong suốt, ngọn lửa chuyển động -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thnww&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=F0F6FC">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thnww&theme=transparent&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&dates=656D76&currStreakNum=0969DA&sideNums=1F2328">
     <img width="65%" alt="Streak Stats" src="https://streak-stats.demolab.com?user=thnww&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF">
   </picture>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Thống kê tổng quan & top ngôn ngữ -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thnww&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&text_bold=false" alt="Overview Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnww&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=5" alt="Top Languages" />
+  <!-- GitHub Stats Extended & Top Languages (Tự động kéo stats thật của thnww) -->
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=thnww&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&text_bold=false" alt="Overview Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thnww&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=5" alt="Top Languages" />
 
 </div>
 
